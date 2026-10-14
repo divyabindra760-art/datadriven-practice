@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stout_cedar_4589), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-14 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-10-14 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-10-14 |
 
