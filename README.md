@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/stout_cedar_4589), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-19 |
 | [Metric Range Per Group](./practice/sql/metric-range-per-group) | SQL | Easy | 2026-10-14 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-14 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-10-14 |
